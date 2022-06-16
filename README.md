@@ -1,12 +1,15 @@
 # Grupo_2_Los3Mosqueteros
 
-Descripción de negocio:
+**Descripción de negocio:**
+
 Vamos a crear un e-commerce que comercialice muebles estilo industrial, productos fabricados por un emprendimiento real de uno de los miembros del grupo.
 
-Descripción de público:
+**Descripción de público:**
+
 Apuntamos a un público con la necesidad de adquirir nuevos productos originales para decorar/amoldar su hogar.
 
-Descripción colaboradores:
+**Descripción colaboradores:**
+
 Valen: Me considero una persona curiosa con varios interés y cierta aspiración a vincularlos en base a lo aprendido.
 
 Laurin: Considero que la digitalización está evolucionando y dándonos herramientas que nos van a permitir crecer y mutar, dandonos la libertad de descubrir diferentes caminos y logros a lo largo de esta trayectoria.
